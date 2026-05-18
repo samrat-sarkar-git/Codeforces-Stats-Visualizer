@@ -162,13 +162,6 @@ _Add project screenshots here_
 
 ---
 
-## Author
-
-### Samrat Sarkar
-
-- GitHub: https://github.com/samrat-sarkar-git
-- LinkedIn: https://linkedin.com/in/samratsarkar3
-
 ---
 
 ## License
