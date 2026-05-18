@@ -156,14 +156,6 @@ This project helped in gaining practical experience in:
 
 ---
 
-## Screenshots
-
-_Add project screenshots here_
-
----
-
----
-
 ## License
 
 This project is licensed under the MIT License.
